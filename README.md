@@ -1,6 +1,6 @@
 # Lorenz System LSTM Predictor
 
-This project uses LSTM (Long Short-Term Memory) neural networks to predict the behavior of the Lorenz system, a classic example of chaos theory. The model learns to predict future states of the system given a sequence of past states, demonstrating how deep learning can capture chaotic dynamics.
+This project uses LSTM (Long Short-Term Memory) to predict the behavior of the Lorenz system, a classic example of chaos theory. The model learns to predict future states of the system given a sequence of past states, demonstrating how deep learning can capture chaotic dynamics.
 
 ## About the Lorenz System
 
